@@ -11,3 +11,4 @@ Created by Reynaldi Julian – reynaldijulian05@gmail.com - Free for student/eve
 - The app give user advice on the code but only limited to what you write not autonomous one.
 ## Disclamer
 - Can be used by every type of android 9(pie) or above. 
+- Some code was made by AI like the ui/ux and some explanation in the program.
