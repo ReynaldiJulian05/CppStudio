@@ -12,3 +12,4 @@ Created by Reynaldi Julian – reynaldijulian05@gmail.com - Free for student/eve
 ## Disclamer
 - Can be used with android version 9(pie) or above. 
 - Some of the code was made by AI like the ui/ux and some explanation in the program.
+- Also Donate me please :( ;  I am in dire need of money right now. If you want to give me money :3, don't forget to chat me okay :).
