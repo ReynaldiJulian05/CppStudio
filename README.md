@@ -8,5 +8,5 @@ Created by Reynaldi Julian – reynaldijulian05@gmail.com - Free for student/eve
   (lzhiyong/termux-ndk, statically linked) and shows percent, speed and ETA.
   Needs roughly 3x the package size in free storage while installing.
 
-## Modes
+## Disclamer
 - Can be used by every type of android 9(pie) or above. 
