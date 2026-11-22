@@ -1,6 +1,6 @@
 # C++ Studio (Android 9 / API 28+)
 
-Created by Reynaldi Julian – reynaldijulian05@gmail.com - free for student/everyone but please do not put ads in it/tampering the code inside for commercial purpose.
+Created by Reynaldi Julian – reynaldijulian05@gmail.com - Free for student/everyone but please do not put ads in it/tampering the code inside for commercial purpose. If you want to see the source code, i recommend to download the zip file on the repository(i am too lazy to add one by one).
 
 ## Modes
 - Online (default): code is compiled by GCC on wandbox.org. Needs internet.
