@@ -6,7 +6,7 @@ Created by Reynaldi Julian – reynaldijulian05@gmail.com - Free for student/eve
 - Online (default): code is compiled by GCC on wandbox.org. Needs internet.
 - Offline: open the ⬇ tab, tap "Download & install". It downloads the Android NDK for aarch64
   (lzhiyong/termux-ndk, statically linked) and shows percent, speed and ETA.
-  Needs roughly 3x the package size in free storage while installing.
+  Needs roughly 394MB the package size in free storage while installing.
 - Detect unused,error, and lack of operation or declaration needed in the program.
 - The app give user advice on the code but only limited to what you write not autonomous one.
 ## Disclamer
