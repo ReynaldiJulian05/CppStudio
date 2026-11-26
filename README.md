@@ -133,12 +133,6 @@ CppStudio/
 └── gradlew / gradlew.bat
 ```
 
-## GitHub repository folder
-
-A clean, standalone source mirror is included at `repositories/CppStudio/`. To publish the project as a GitHub repository, create an empty GitHub repository and upload the **contents** of that folder as the repository root, or initialize Git in that folder and push it. The main project at the top level is also complete and can be used directly.
-
-Build outputs, local IDE settings, local SDK paths, and Gradle caches are excluded from the repository template.
-
 ## App details
 
 - **Version name:** 1.4
